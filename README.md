@@ -1,1 +1,1 @@
-# CAN-stuffing-mechanism
+stuffing refers to a mechanism used to ensure proper synchronization and error detection during data transmission. To maintain a consistent bit timing, especially when a series of identical bits are transmitted consecutively
